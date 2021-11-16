@@ -1,0 +1,4 @@
+ffmpeg==1.4
+ffmpeg_python==0.2.0
+setuptools==52.0.0.post20210125
+typer==0.4.0
